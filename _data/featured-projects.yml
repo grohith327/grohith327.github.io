@@ -1,0 +1,43 @@
+- name: Drone Swarms 
+  url: https://yuejinyz.github.io/2020CapstoneProject.github.io/
+  code: https://github.com/grohith327/MARL-Drones
+  description:
+    - point: Developed a 2D &amp; 3D simulation environment for path planning, task assignment and prioritization with Drone Swarms
+    - point: Conducted experiments with various policies such as sequence to sequence models, attention based models etc. and RL algorithms such as A2C, DQN etc.
+    - point: Explored different trajectory planning algorithms to avoid obstacles in a multi-agent setting such as Wavefront, PotentialField, Velocity Obstacle etc.
+    - point: Worked with satellite imagery data to identify and quantitatively predict the structural damage due to the earthquake which is used in conjuction with other factors for task assignment &amp; path planning
+    - point: Attempted to improve the spectral &amp; spatial resolution of the satellite images &amp; also, generate synthetic images with GANs that reflect the structural damage caused due to the earthquake
+    - point: Performed uncertainty analysis on the estimation of damage to structures at certain locations caused by the earthquake
+  used:
+    - thing: Pytorch 
+    - thing: RL
+    - thing: Drone
+    - thing: Computer Vision
+
+- name: Indian Sign Language Recognition
+  url: https://doi.org/10.1145/3394171.3413528
+  code: 
+  description:
+    - point: Developed a Deep Learning pipeline to convert Indian Sign Language videos to words
+    - point: Created a Dataset of size 55GB consisting of high resolution Indian Sign Language Videos with 264 classes and released it publicly
+    - point: Built a pipeline based on deep learning that uses pose estimation, video feature extractor and sequence modeling to classify the signs
+    - point: Based on the rigorous experiments, we observed that the combination of OpenPose as pose estimator, MobileNet as our video feature extractor &amp; Bidirectional LSTM as our sequence model works best
+    - point: Proved the validity of our model by achieving state of the art results on the American Sign Language (ASLLVD) dataset and published our results in the ACM MM'20 Conference
+  used:
+    - thing: TensorFlow 
+    - thing: SLR
+    - thing: Computer Vision
+
+- name: OCR Framework for low-resource Language
+  url:
+  code: 
+  description:
+    - point: Developed an interactive OCR framework for low-resource languages such as Sanskrit, Hindi &amp; Gujarati Languages
+    - point: Developed a cross-platform GUI desktop application in the C++ language using Qt Creator that converts Sanskrit documents into editable format using the Tessarct OCR Engine
+    - point: Used language models such as LSTMs &amp; n-gram based edit distance methods to reduce OCR conversion errors 
+    - point: The language model updates and learns on-the-fly
+  used:
+    - thing: C++ 
+    - thing: Qt
+    - thing: TensorFlow
+    - thing: GUI desktop application
