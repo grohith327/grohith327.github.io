@@ -2,11 +2,11 @@
 name: Rohith Gandhi G
 title: Rohith Gandhi G
 description: Computer scientist passionate about machine learning &amp; software development
-url: ''
+url: https://grohith327.github.io/
 baseurl: ''
 email: rgg296@nyu.edu
-cover: ./img/og.png
-resume: resume.pdf
+cover: https://grohith327.github.io/img/og.png
+resume: https://grohith327.github.io/resume.pdf
 social:
   - title: email
     url: mailto:rgg296@nyu.edu
