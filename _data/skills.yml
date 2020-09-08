@@ -9,6 +9,7 @@ languages:
 frameworks:
   - item: Pytorch
   - item: TensorFlow
+  - item: Caffe
   - item: Spark
   - item: Sklearn
   - item: Pandas
