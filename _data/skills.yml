@@ -10,6 +10,7 @@ frameworks:
   - item: Pytorch
   - item: TensorFlow
   - item: Caffe
+  - item: MLPack
   - item: Spark
   - item: Sklearn
   - item: Pandas
