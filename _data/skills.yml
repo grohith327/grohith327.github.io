@@ -11,10 +11,9 @@ frameworks:
   - item: TensorFlow
   - item: Caffe
   - item: MLPack
+  - item: CUDA
   - item: Spark
   - item: Sklearn
-  - item: Pandas
-  - item: Numpy
   - item: React
 
 tools:
