@@ -10,11 +10,12 @@
     - thing: NLP
 
 - name: SimpleGAN
-  url: https://github.com/grohith327/simplegan
+  url: https://simplegan.readthedocs.io/en/latest/
   code: https://github.com/grohith327/simplegan
   description:
     - point: SimpleGAN is a python framework built on top of TensorFlow that aims to facilitate the training of AutoEncoders and GANs by provding high-level APIs
     - point: The framework has over 5000 downloads
+    - point: Featured in the HacktoberFest of Made with ML
   used:
     - thing: TensorFlow 
     - thing: GANs
