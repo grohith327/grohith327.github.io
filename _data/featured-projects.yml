@@ -3,11 +3,11 @@
   code: https://github.com/grohith327/MARL-Drones
   description:
     - point: Developed a 2D &amp; 3D simulation environment for path planning, task assignment and prioritization with Drone Swarms
-    - point: Conducted experiments with various policies such as sequence to sequence models, attention based models etc. and RL algorithms such as A2C, DQN etc.
-    - point: Explored different trajectory planning algorithms to avoid obstacles in a multi-agent setting such as Wavefront, PotentialField, Velocity Obstacle etc.
+    - point: Conducted experiments with various policies such as sequence to sequence models, transformers etc. and RL algorithms such as A2C, DQN and REINFORCE.
+    - point: Explored different trajectory planning algorithms to avoid obstacles in a multi-agent setting such as Wavefront, PotentialField and Velocity Obstacle.
     - point: Worked with satellite imagery data to identify and quantitatively predict the structural damage due to the earthquake which is used in conjuction with other factors for task assignment &amp; path planning
+    - point: Worked on improving object detection models for drone swarms by sharing sparsely encoded multi-view information
     - point: Attempted to improve the spectral &amp; spatial resolution of the satellite images &amp; also, generate synthetic images with GANs that reflect the structural damage caused due to the earthquake
-    - point: Performed uncertainty analysis on the estimation of damage to structures at certain locations caused by the earthquake
   used:
     - thing: Pytorch 
     - thing: RL
