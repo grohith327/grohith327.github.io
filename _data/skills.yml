@@ -1,8 +1,7 @@
 languages:
-  - item: C
-  - item: C++
   - item: Python
-  - item: SQL
+  - item: C++
+  - item: C
   - item: JavaScript
   - item: R
 
@@ -11,14 +10,19 @@ frameworks:
   - item: TensorFlow
   - item: Caffe
   - item: MLPack
-  - item: CUDA
-  - item: Spark
+  - item: Dask
+  - item: Pandas
+  - item: PySpark
   - item: Sklearn
+  - item: NLTK
+  - item: Spacy
   - item: React
 
 tools:
   - item: Bash
   - item: Git & Github
+  - item: PostgreSQL
+  - item: MySQL
   - item: GCP
   - item: Docker
   - item: ArcGIS
