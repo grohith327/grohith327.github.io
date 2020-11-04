@@ -25,6 +25,21 @@
     - thing: Numpy
     - thing: Sklearn
 
+- name: Building Energy Consumption Prediction
+  url:
+  code:
+  description:
+    - point: Utilized building meta-data and weather data to predict a building's water, electricity and gas meter readings.
+    - point: Performed data cleaning and exploratory data analysis to identify outliers, impute missing data and identify correlations in data.
+    - point: Improved model predictive power by performing feature engineering and used LightGBM model to train on the data.
+    - point: Utilized cross-validation to train and evaluate the model and visualized the results by performing PCA on the data.
+  used:
+    - thing: Pandas
+    - thing: Dask
+    - thing: XGBoost
+    - thing: LightGBM
+    - thing: Sklearn
+
 - name: SimpleGAN
   url: https://simplegan.readthedocs.io/en/latest/
   code: https://github.com/grohith327/simplegan
