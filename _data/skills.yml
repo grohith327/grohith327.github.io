@@ -23,7 +23,7 @@ tools:
   - item: Git & Github
   - item: PostgreSQL
   - item: MySQL
+  - item: AWS
   - item: GCP
   - item: Docker
   - item: ArcGIS
-  - item: QGIS
